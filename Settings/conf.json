@@ -1,0 +1,21 @@
+{
+    "Discord": {
+        "bot_owners": [
+            "682229927864696835",
+            "723560525358825542"
+            
+        ],
+        "token": "NzcxNjI4NzQ3NTAxNzMxODQw.X5u5RQ.PJS7mwS0dUc8FDUqWPpQSZTC_68",
+        "prefix": "j!",
+        "invite_link_perms": [
+            "SEND_MESSAGES",
+            "MANAGE_GUILD",
+            "EMBED_LINKS"
+        ],
+        "bot_admins": [
+            "682229927864696835",
+            "683343114865606686"
+        ]
+    },
+    "Mongo": "mongodb+srv://arnav:drskm1974@cluster0.c7bj1.mongodb.net/jarvis?retryWrites=true&w=majority"
+}
